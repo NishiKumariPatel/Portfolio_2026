@@ -201,7 +201,7 @@ export default function Resume() {
         >
           {[
             { name: "LinkedIn", link: "https://www.linkedin.com/in/nishibit" },
-            { name: "Portfolio", link: "https://nishiportfolio.vercel.app/" },
+            { name: "Portfolio", link: "https://portfolio-2026-mwdn.vercel.app/" },
           ].map((site) => (
             <motion.a
               key={site.name}
