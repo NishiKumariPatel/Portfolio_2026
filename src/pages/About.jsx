@@ -170,7 +170,7 @@ const AboutMe = () => {
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
                   Final Year
                 </p>
-                <p style={{ color: "rgba(255,255,255,0.7)" }}>Aug 2024 – Jul 2027</p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>CGPA 8.25/10 (Up to 6th Sem)       &#9;    Aug 2024 – Jul 2027</p>
               </div>
             </motion.div>
 
