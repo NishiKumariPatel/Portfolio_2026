@@ -84,7 +84,7 @@ export default function Resume() {
             <strong style={{ color: "#00b4ff" }}>Professional Summary:</strong>
             <p style={{ marginTop: 6, color: "#ccc" }}>
               Final-year B.Tech student (AI & ML). Two-time 1st Place Tech Fest winner.
-              Built production-grade ML projects: NAFLD_XAI and ParkIn. Proficient in Python,
+              Built production-grade ML projects: NAFLD XAI and ParkIn. Proficient in Python,
               Scikit-learn, SHAP, NumPy, Pandas, and AWS. Seeking an ML Internship to drive
               real-world AI impact.
             </p>
@@ -113,7 +113,7 @@ export default function Resume() {
             <li>
               <strong>B.Tech in CSE (Artificial Intelligence & Machine Learning)</strong> — Bengal Institute of Technology,
               2024–2027 <br />
-              <span style={{ color: "#aaa" }}>Final Year</span>
+              <span style={{ color: "#aaa" }}>CGPA 8.25/10 (Up to 6th Sem) Final Year</span>
             </li>
             <li style={{ marginTop: 8 }}>
               <strong>Diploma in Computer Science & Engineering</strong> — Government Women's Polytechnic, Muzaffarpur
