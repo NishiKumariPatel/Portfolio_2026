@@ -209,7 +209,7 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>Government Women's Polytechnic</strong> — Muzaffarpur
+                  <strong>Government Women's Polytechnic</strong> — Muzaffarpur, Bihar
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
                   Diploma
@@ -244,7 +244,7 @@ const AboutMe = () => {
                     fontSize: "1.25rem",
                   }}
                 >
-                  Class X (Secondary)
+                  Diploma in Computer Science & Engineering
                 </h4>
                 <p
                   style={{
@@ -252,12 +252,12 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>Patel High School Daudnagar, Aurangabad
+                  <strong>Government Women's Polytechnic</strong> — Muzaffarpur, Bihar
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
                   Diploma
                 </p>
-                <p style={{ color: "rgba(255,255,255,0.7)" }}>Percentage: 86.6   2020 – 2021</p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>CGPA 8.6/10   Dec 2021 – May 2024</p>
               </div>
             </motion.div>
           </div>
