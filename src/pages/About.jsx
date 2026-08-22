@@ -255,7 +255,7 @@ const AboutMe = () => {
                   <strong>Patel High School</strong> — Daudnagar, Aurangabad   Bihar
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  Diploma
+                  Secondary Education
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>Percentage: 86.6   2020 – 2021</p>
               </div>
