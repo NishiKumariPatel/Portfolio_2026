@@ -217,6 +217,49 @@ const AboutMe = () => {
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>CGPA 8.6/10   Jul 2021 – May 2024</p>
               </div>
             </motion.div>
+                        {/* --- Education Card 2 --- */}
+            <motion.div
+              whileHover={{
+                scale: 1.02,
+                boxShadow: "0 0 25px rgba(0,255,200,0.15)",
+              }}
+              transition={{ duration: 0.3 }}
+              style={{
+                background: "rgba(255,255,255,0.05)",
+                borderRadius: "14px",
+                padding: "1.5rem 2rem",
+                border: "1px solid rgba(255,255,255,0.08)",
+                boxShadow: "0 0 15px rgba(0,255,200,0.05)",
+                display: "flex",
+                alignItems: "center",
+                gap: "1.2rem",
+              }}
+            >
+              <FaGraduationCap size={38} color="var(--accent)" />
+              <div>
+                <h4
+                  style={{
+                    color: "var(--accent)",
+                    marginBottom: "0.4rem",
+                    fontSize: "1.25rem",
+                  }}
+                >
+                  Diploma in Computer Science & Engineering
+                </h4>
+                <p
+                  style={{
+                    color: "rgba(255,255,255,0.85)",
+                    marginBottom: "0.2rem",
+                  }}
+                >
+                  <strong>Government Women's Polytechnic</strong> — Muzaffarpur, Bihar
+                </p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>
+                  Diploma
+                </p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>CGPA 8.6/10   Dec 2021 – May 2024</p>
+              </div>
+            </motion.div>
           </div>
         </motion.div>
       </motion.div>
