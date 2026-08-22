@@ -209,7 +209,7 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>Government Women's Polytechnic</strong> — Muzaffarpur, Bihar
+                  <strong>Government Women's Polytechnic</strong> — Muzaffarpur
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
                   Diploma
@@ -252,7 +252,7 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>Patel High School Daudnagar, Aurangabad, Bihar
+                  <strong>Patel High School Daudnagar, Aurangabad
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
                   Diploma
