@@ -168,9 +168,9 @@ const AboutMe = () => {
                   <strong>Bengal Institute of Technology</strong> — Kolkata, WB
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  Final Year      CGPA 8.25/10 (Up to 6th Sem)   
+                  Final Year        
                 </p>
-                <p style={{ color: "rgba(255,255,255,0.7)" }}>        Aug 2024 – Jul 2027</p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}> CGPA 8.25/10 (Up to 6th Sem)        Aug 2024 – Jul 2027</p>
               </div>
             </motion.div>
 
@@ -214,7 +214,7 @@ const AboutMe = () => {
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
                   Diploma
                 </p>
-                <p style={{ color: "rgba(255,255,255,0.7)" }}>Dec 2021 – May 2024</p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>CGPA 8.6/10   Jul 2021 – May 2024</p>
               </div>
             </motion.div>
           </div>
